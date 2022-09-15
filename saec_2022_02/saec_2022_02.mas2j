@@ -1,0 +1,14 @@
+MAS ex_communication {
+
+	infrastructure: Centralised
+
+	agents:
+		fulano person[beliefs="brasileiro"];
+		john_doe person[beliefs="ingles"];
+		max_mustermann person[beliefs="alemao"];
+		mario_rossi person[beliefs="italiano"];
+		zutano person[beliefs="espanhol"];
+
+	aslSourcePath:
+		"src/asl";
+}

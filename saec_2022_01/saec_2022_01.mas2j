@@ -1,0 +1,10 @@
+MAS aula1 {
+
+	infrastructure: Centralised
+
+	agents:
+		aspirador;
+
+	aslSourcePath:
+		"src/asl";
+}
